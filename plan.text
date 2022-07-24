@@ -1,0 +1,40 @@
+Components:
+Historical Data
+Realtime Data
+Stock trends
+Current events
+Polygon API
+Hype Factor
+Web scraping and pulling from different websites
+Beautiful Soup API
+Media effect
+Notifications
+Sell and buy
+
+What to Research:
+How options trading works
+Calls
+Puts
+Decay Rates
+Math of stocks
+Power law: If a major player (1% of the market) starts to tank, related companies within the market might tank
+Corrections
+Markets
+Prices going up for different markets at different times
+Bull market vs. bear market
+Find metrics for when we’re in and approaching one of these markets
+Bubbles
+Use data from historical bubbles to predict if market is in a bubble, approaching bubble, ending bubble
+Stock pattern with “eras” 
+Trends will follow new patterns that people are unaware of.  Need to research the way trends change over the years so that our code is not out-dated
+
+Overarching Idea:
+AI: measuring our decisions on a daily basis and seeing the profit that we make
+Accuracy over time
+Safe stocks and risky stocks
+Run a historical load of data and measure the variance day to day
+Pick 5 top safest stocks
+
+Predictions using variance and existing data
+Use historical data to predict current stock values to test accuracy (should probably have multiple predictions across different time frames)
+Example: use 4 weeks ago through 1 week ago to see if it predicted this week correctly.  Then maybe 12 months ago through 5 months ago to predict the stocks from 4 months ago.  Find difference in predicted vs. actual.
