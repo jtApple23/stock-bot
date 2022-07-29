@@ -40,5 +40,5 @@ Use historical data to predict current stock values to test accuracy (should pro
 Example: use 4 weeks ago through 1 week ago to see if it predicted this week correctly.  Then maybe 12 months ago through 5 months ago to predict the stocks from 4 months ago.  Find difference in predicted vs. actual.
 
 
-Date, Ticker, Price, Market, CE, Score 
+Ticker, Date, Price, Industry, Score, CE
 Sahil: edit these columns.  I don't have these written down from your pseudocode.
